@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jsb7131/electric-vehicles/static/css/main.afb7d106.chunk.css",
+    "main.js": "/jsb7131/electric-vehicles/static/js/main.e3abd53a.chunk.js",
+    "main.js.map": "/jsb7131/electric-vehicles/static/js/main.e3abd53a.chunk.js.map",
+    "runtime-main.js": "/jsb7131/electric-vehicles/static/js/runtime-main.21bf5f56.js",
+    "runtime-main.js.map": "/jsb7131/electric-vehicles/static/js/runtime-main.21bf5f56.js.map",
+    "static/js/2.599fb78d.chunk.js": "/jsb7131/electric-vehicles/static/js/2.599fb78d.chunk.js",
+    "static/js/2.599fb78d.chunk.js.map": "/jsb7131/electric-vehicles/static/js/2.599fb78d.chunk.js.map",
+    "index.html": "/jsb7131/electric-vehicles/index.html",
+    "precache-manifest.65ab3fe9760067de1c597d380c7606a6.js": "/jsb7131/electric-vehicles/precache-manifest.65ab3fe9760067de1c597d380c7606a6.js",
+    "service-worker.js": "/jsb7131/electric-vehicles/service-worker.js",
+    "static/css/main.afb7d106.chunk.css.map": "/jsb7131/electric-vehicles/static/css/main.afb7d106.chunk.css.map",
+    "static/js/2.599fb78d.chunk.js.LICENSE.txt": "/jsb7131/electric-vehicles/static/js/2.599fb78d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jsb7131/electric-vehicles/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21bf5f56.js",
+    "static/js/2.599fb78d.chunk.js",
+    "static/css/main.afb7d106.chunk.css",
+    "static/js/main.e3abd53a.chunk.js"
+  ]
+}
