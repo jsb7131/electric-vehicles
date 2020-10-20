@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/electric-vehicles/static/css/main.afb7d106.chunk.css",
-    "main.js": "/electric-vehicles/static/js/main.3b8e87af.chunk.js",
-    "main.js.map": "/electric-vehicles/static/js/main.3b8e87af.chunk.js.map",
+    "main.js": "/electric-vehicles/static/js/main.a8f9de34.chunk.js",
+    "main.js.map": "/electric-vehicles/static/js/main.a8f9de34.chunk.js.map",
     "runtime-main.js": "/electric-vehicles/static/js/runtime-main.09446933.js",
     "runtime-main.js.map": "/electric-vehicles/static/js/runtime-main.09446933.js.map",
-    "static/js/2.64343fa0.chunk.js": "/electric-vehicles/static/js/2.64343fa0.chunk.js",
-    "static/js/2.64343fa0.chunk.js.map": "/electric-vehicles/static/js/2.64343fa0.chunk.js.map",
+    "static/js/2.4aea8436.chunk.js": "/electric-vehicles/static/js/2.4aea8436.chunk.js",
+    "static/js/2.4aea8436.chunk.js.map": "/electric-vehicles/static/js/2.4aea8436.chunk.js.map",
     "index.html": "/electric-vehicles/index.html",
-    "precache-manifest.2ad57668cdd9f51862b263910363cb25.js": "/electric-vehicles/precache-manifest.2ad57668cdd9f51862b263910363cb25.js",
+    "precache-manifest.87b5cecb421638af0c6bd7c187420153.js": "/electric-vehicles/precache-manifest.87b5cecb421638af0c6bd7c187420153.js",
     "service-worker.js": "/electric-vehicles/service-worker.js",
     "static/css/main.afb7d106.chunk.css.map": "/electric-vehicles/static/css/main.afb7d106.chunk.css.map",
-    "static/js/2.64343fa0.chunk.js.LICENSE.txt": "/electric-vehicles/static/js/2.64343fa0.chunk.js.LICENSE.txt",
+    "static/js/2.4aea8436.chunk.js.LICENSE.txt": "/electric-vehicles/static/js/2.4aea8436.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/electric-vehicles/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.09446933.js",
-    "static/js/2.64343fa0.chunk.js",
+    "static/js/2.4aea8436.chunk.js",
     "static/css/main.afb7d106.chunk.css",
-    "static/js/main.3b8e87af.chunk.js"
+    "static/js/main.a8f9de34.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/electric-vehicles/precache-manifest.2ad57668cdd9f51862b263910363cb25.js"
+  "/electric-vehicles/precache-manifest.87b5cecb421638af0c6bd7c187420153.js"
 );
 
 self.addEventListener('message', (event) => {
